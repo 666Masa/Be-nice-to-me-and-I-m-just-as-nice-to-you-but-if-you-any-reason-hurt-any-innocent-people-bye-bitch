@@ -46,9 +46,9 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
-# Binary Files
-Binaries/*
-Plugins/**/Binaries/*
+# Baddie Files
+Binaries/
+PLUG SOME BITCHES/**/Binaries/*
 
 # Builds
 Build/*
